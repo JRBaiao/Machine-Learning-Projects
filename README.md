@@ -10,4 +10,4 @@ K-Means Clustering: Unsupervised learning for pattern discovery and segmentation
 
 Random Forest: Ensemble learning for robust classification and regression.
 
-Each project includes datasets, preprocessing steps, model implementation, evaluation metrics, and visualizations to enhance understanding. Feel free to explore, experiment, and contribute! 😊
+Each project includes datasets, preprocessing steps, model implementation, evaluation metrics, and visualizations to enhance understanding. Feel free to explore, experiment, and contribute! 
